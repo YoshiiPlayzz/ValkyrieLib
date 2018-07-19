@@ -11,7 +11,6 @@ BUG: + General Name/Description of bug
 **Comments Section:**  
 ```
 ValkyrieLib Version: 
-Environmental Tech Version: 
 Description of bug: 
 (If Applicable)Modpack Name: 
 How to reproduce bug: 
