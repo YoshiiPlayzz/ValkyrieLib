@@ -1,0 +1,66 @@
+tooltip.valkyrielib.shiftmoreinfo=Зажмите Shift
+
+tooltip.valkyrielib.witherproof=Доказательство увядания
+tooltip.valkyrielib.playerbreakonly=Только игроки могут сломать
+
+itemgroup.valkyrielib.tab=ValkyrieLib
+
+item.valkyrielib.guide.name=Цифровое руководство
+item.valkyrielib.modifier_component.name=Компонент модификатора
+item.valkyrielib.modifier_speed.name=Модификатор скорости
+item.valkyrielib.modifier_range.name=Модификатор дальности
+item.valkyrielib.modifier_magnitude.name=Модификатор величины
+
+info.valkyrielib.shift=SHIFT
+info.valkyrielib.forinfo=Для инфо
+info.valkyrielib.useguide=Поиск "@ValkyrieLib Digital Guide" в JEI для руководства в игре
+
+gui.valkyrielib.next=Далее
+gui.valkyrielib.prev=Предыдущий
+gui.valkyrielib.scrollup=Прокрутка вверх
+gui.valkyrielib.scrolldown=Прокрутка вниз
+gui.valkyrielib.back=Назад
+gui.valkyrielib.home=Домой
+gui.valkyrielib.page=Страница
+gui.valkyrielib.about=О
+gui.valkyrielib.upgrades=Обновления
+gui.valkyrielib.energyuse=Использование энергии
+gui.valkyrielib.energycost=Затраты энергии
+gui.valkyrielib.energygen=Генерация энергии
+gui.valkyrielib.energybuffer=Буфер энергии
+gui.valkyrielib.worldgen=Мировая генерация
+gui.valkyrielib.enabled=Включено
+gui.valkyrielib.disabled=Отключено
+gui.valkyrielib.minheight=Мин. высота
+gui.valkyrielib.maxheight=Макс. высота
+gui.valkyrielib.nodesize=Размеры ноды
+gui.valkyrielib.nodefreq=Частота ноды
+gui.valkyrielib.specs=Спецификации
+gui.valkyrielib.defaultduration=Продолжительность по умолчанию
+gui.valkyrielib.minduration=Минимальная продолжительность
+gui.valkyrielib.howtouse=Как использовать
+gui.valkyrielib.ticks=Тиков
+gui.valkyrielib.red=Красный
+gui.valkyrielib.green=Зеленый
+gui.valkyrielib.blue=Синий
+gui.valkyrielib.info=Инфо
+gui.valkyrielib.clickhere=Нажмите здесь
+gui.valkyrielib.infosymbol=i
+gui.valkyrielib.jeisymbol=j
+gui.valkyrielib.modifiersymbol=m
+
+
+guide.valkyrielib.button.patreon=Поддержать ValkyrieofNight на Patreon!!!
+guide.valkyrielib.button.twitter=Подписаться ValkyrieofNight на Twitter
+guide.valkyrielib.button.discord=Присоединиться ValkyrieofNights в Discord
+guide.valkyrielib.button.curseforge=Найти другие моды ValkyrieofNights на CurseForge
+guide.valkyrielib.button.youtube=Следить за ValkyrieofNight на Youtube
+guide.valkyrielib.button.twitch=Следить за ValkyrieofNight на Twitch
+guide.valkyrielib.button.website=Проверить выход ValkyrieofNights на веб-сайте
+guide.valkyrielib.button.github=Сообщить об ошибке на github
+
+
+
+guide.valkyrielib.title.description=Описание
+guide.valkyrielib.title.commonreq=Общие требования
+guide.valkyrielib.title.modifiers=Модификаторы
