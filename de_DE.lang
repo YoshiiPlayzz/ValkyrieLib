@@ -1,0 +1,48 @@
+ooltip.valkyrielib.shiftmoreinfo=Halte Shift
+
+tooltip.valkyrielib.witherproof=Wither Sicher
+tooltip.valkyrielib.playerbreakonly=Nur Spieler können dies abbauen
+
+itemgroup.valkyrielib.tab=ValkyrieLib
+
+item.valkyrielib.guide.name=Digital Guide
+item.valkyrielib.modifier_component.name=Modifier Komponente
+item.valkyrielib.modifier_speed.name=Geschwindigkeits Modifier
+
+gui.valkyrielib.next=Nächste Seite
+gui.valkyrielib.prev=Vorherige Seite
+gui.valkyrielib.back=Zurück
+gui.valkyrielib.home=Start
+gui.valkyrielib.page=Seite
+gui.valkyrielib.about=Über
+gui.valkyrielib.upgrades=Verbesserungen
+gui.valkyrielib.energyuse=Energie Nutzung
+gui.valkyrielib.energycost=Energie Kosten
+gui.valkyrielib.energygen=Energie Erzeugung
+gui.valkyrielib.energybuffer=Energy Puffer
+gui.valkyrielib.worldgen=Welt Generation
+gui.valkyrielib.enabled=Aktiviert
+gui.valkyrielib.disabled=Deaktiviert
+gui.valkyrielib.minheight=Minimale Höhe
+gui.valkyrielib.maxheight=Maximale Höhhe
+gui.valkyrielib.nodesize=Knotengröße
+gui.valkyrielib.nodefreq=Knotenfrequenz
+gui.valkyrielib.specs=Spezifikationen
+gui.valkyrielib.defaultduration=Standarddauer
+gui.valkyrielib.minduration=Minimale Dauer
+gui.valkyrielib.howtouse=How to use
+gui.valkyrielib.ticks=Ticks
+gui.valkyrielib.red=Rot
+gui.valkyrielib.green=Grün
+gui.valkyrielib.blue=Blau
+gui.valkyrielib.info=Info
+
+
+guide.valkyrielib.button.patreon=Unterstütze ValkyrieofNight auf Patreon!!!
+guide.valkyrielib.button.twitter=Folge ValkyrieofNight auf Twitter
+guide.valkyrielib.button.discord=Komme auf den ValkyrieofNights Discord
+guide.valkyrielib.button.curseforge=Finde andere Mods von ValkyrieofNights auf CurseForge
+guide.valkyrielib.button.youtube=Folge ValkyrieofNight auf Youtube
+guide.valkyrielib.button.twitch=Folge ValkyrieofNight auf Twitch
+guide.valkyrielib.button.website=Sieh dir die Website von ValkyrieofNights an
+guide.valkyrielib.button.github=Melde einen Fehler auf GitHub
